@@ -9,3 +9,5 @@ React+Redux
 Со стороны сервера: использование базы данных, сохранение данных в базе, чтение данных из базы.
 Ссылка на тестовую версию:
 https://trello-copy-ddiaorohmd.now.sh/
+To begin the development, run `npm start`.
+To create a production bundle, use `npm run build`.
